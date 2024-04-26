@@ -35,6 +35,7 @@ public class Zmienne1 {
 
         boolean sun = true; //false
 
+        // https://github.com/przemjan/czwartacgr3r2024
 
     }
 }
